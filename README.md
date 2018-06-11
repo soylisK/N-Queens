@@ -5,11 +5,11 @@ Simple implementation for N-Queens Problem in Python
 
 Use python2.7, plus check for Tkinteger lib in python. 
 
-We have build two algorithms for solving N-queens problem and We compares the results.
+We have build two algorithms for solving N-queens problem and We compared the results.
 
 The Two Algoriths are:
-+a) Simulated Annealing --> as a local search algorithm.
-+b) Min Conflicts --> CSP algorithm (Constraint Satisfaction Problem).
++ a) Simulated Annealing --> as a local search algorithm.
++ b) Min Conflicts --> CSP algorithm (Constraint Satisfaction Problem).
 
 
 
@@ -32,8 +32,8 @@ args:
 ----------
 
 Execution time
-Number of Conflicts if there are any
-Board with Queens as array in terminal
+Number of Conflicts if there are any,
+Board with Queens as array in terminal,
 + Create Images with queens on the board
 
 #Parameterization(check each algorithm's script):
