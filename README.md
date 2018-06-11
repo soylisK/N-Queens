@@ -22,10 +22,11 @@ To compare our methods we run the program 10 times for each input and took the a
 
 run python2.7 app.py -N -algorith_type
 
-args: \\
-+N: the size of problem (NxN board), N-queens
+args: 
 
-+algorithm_type: choode -SA, or -MC for (Simulated annealing or Min conflicts)
++ N: the size of problem (NxN board), N-queens
+
++ algorithm_type: choode -SA, or -MC for (Simulated annealing or Min conflicts)
 
 #Output:
 ----------
