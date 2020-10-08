@@ -5,7 +5,7 @@
 Images/ folder contains images of a board with queens on it.
 
 
-##RUN app.py for the part B of code################################################################################
+## RUN app.py for the part B of code 
 -------------------------------------------------------------------------------------------------------------------
 We suggest using python2.7
 Also python image package it's needed
